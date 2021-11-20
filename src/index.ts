@@ -9,11 +9,17 @@ let currentPopup: any = undefined;
 const today = new Date();
 const time = today.getHours() + ":" + today.getMinutes();
 
+// clock
 WA.room.onEnterZone('clock', () => {
     currentPopup =  WA.ui.openPopup("clockPopup","It's " + time,[]);
 })
-
 WA.room.onLeaveZone('clock', closePopUp)
+
+// 3d printer ballet
+WA.room.onEnterZone('printerBallet', () => {
+    currentPopup =  WA.ui.openPopup("printerBalletPopup","3D-Drucker-Ballett",[]);
+})
+WA.room.onLeaveZone('printerBallet', closePopUp)
 
 function closePopUp(){
     if (currentPopup !== undefined) {
