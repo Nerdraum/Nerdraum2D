@@ -523,7 +523,7 @@
         {
          "columns":16,
          "firstgid":555,
-         "image":"neotiles.png",
+         "image":"src\/assets\/neotiles.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
