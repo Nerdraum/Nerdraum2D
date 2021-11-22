@@ -54,7 +54,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Humpen"
+                 "value":"https:\/\/meet.mueller.network\/humpen"
                 }, 
                 {
                  "name":"jitsiTrigger",
