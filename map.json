@@ -285,7 +285,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/webcam.intersaar.de\/saarpolygon"
+                         "value":"https:\/\/webcam.intersaar.de\/saarpolygon\/24hHD.webm"
                         }],
                  "rotation":0,
                  "type":"website",
