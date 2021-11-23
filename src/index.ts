@@ -21,6 +21,12 @@ WA.room.onEnterZone('printerBallet', () => {
 })
 WA.room.onLeaveZone('printerBallet', closePopUp)
 
+// mancas3d
+WA.room.onEnterZone('mancas3d', () => {
+    currentPopup =  WA.ui.openPopup("mancas3d","",[]);
+})
+WA.room.onLeaveZone('mancas3d', closePopUp)
+
 function closePopUp(){
     if (currentPopup !== undefined) {
         currentPopup.close();
