@@ -52,9 +52,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/m.twitch.tv\/madt1xx\/home"
+                 "value":"https:\/\/www.twitch.tv\/madt1xx\/home"
                 }],
          "type":"tilelayer",
          "visible":true,
