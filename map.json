@@ -88,19 +88,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/meet.mueller.network\/humpen"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiWidth",
-                 "type":"int",
-                 "value":25
                 }],
          "type":"tilelayer",
          "visible":true,
