@@ -185,7 +185,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"rtsp:\/\/mancas:3ddrucker@31.19.16.115:554\/stream2"
+                 "value":"https:\/\/22x22.de\/MancasWorkshop.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -345,7 +345,7 @@
          "y":0
         }],
  "nextlayerid":48,
- "nextobjectid":13,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":[
         {
