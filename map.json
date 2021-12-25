@@ -103,7 +103,7 @@
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
-                         "value":"camera"
+                         "value":"camera *"
                         }],
                  "type":"tilelayer",
                  "visible":true,
