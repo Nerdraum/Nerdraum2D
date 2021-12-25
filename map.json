@@ -101,7 +101,7 @@
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
-                         "value":"camera *"
+                         "value":"microphone *, camera *, fullscreen *"
                         }],
                  "type":"tilelayer",
                  "visible":true,
