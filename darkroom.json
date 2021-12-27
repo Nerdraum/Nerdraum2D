@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/nerdraum.github.io\/Nerdraum2D\/map.json"
+                 "value":"\/_\/global\/www.nerdraum.de\/nerdraum2d\/Nerdraum2D\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
