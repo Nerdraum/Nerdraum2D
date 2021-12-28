@@ -312,7 +312,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"playAudio",
                          "type":"string",
                          "value":"https:\/\/radio.zentonic.org\/stream.mp3"
                         }],
