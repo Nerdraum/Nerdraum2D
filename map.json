@@ -907,20 +907,9 @@
          "name":"Streamvorschauen",
          "objects":[
                 {
-                 "height":20,
-                 "id":14,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":44,
-                 "x":1169.33333333333,
-                 "y":438.666666666667
-                }, 
-                {
-                 "height":32,
+                 "height":27,
                  "id":15,
-                 "name":"",
+                 "name":"sendezentrum",
                  "properties":[
                         {
                          "name":"url",
@@ -928,11 +917,164 @@
                          "value":"https:\/\/wob1.wob.c3voc.de\/thumbnail\/sendezentrum\/thumb.jpeg"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
-                 "width":57.3333333333333,
-                 "x":1157.33333333333,
-                 "y":429.333333333333
+                 "width":50,
+                 "x":1159,
+                 "y":430
+                }, 
+                {
+                 "height":27,
+                 "id":21,
+                 "name":"c-base",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/cbase\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1319,
+                 "y":429.833333333333
+                }, 
+                {
+                 "height":27,
+                 "id":22,
+                 "name":"chaoswest",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/cwtv\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1478.66666666667,
+                 "y":429.833333333333
+                }, 
+                {
+                 "height":27,
+                 "id":23,
+                 "name":"r3s",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/r3s\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1639,
+                 "y":430.166666666667
+                }, 
+                {
+                 "height":27,
+                 "id":24,
+                 "name":"csh",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/csh\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1799,
+                 "y":429.833333333333
+                }, 
+                {
+                 "height":27,
+                 "id":25,
+                 "name":"frankonian",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/franconiannet\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1798.83333333333,
+                 "y":46.3333333333333
+                }, 
+                {
+                 "height":27,
+                 "id":26,
+                 "name":"about:future",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/aboutfuture\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1638.875,
+                 "y":46.25
+                }, 
+                {
+                 "height":27,
+                 "id":27,
+                 "name":"haecksen",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/haecksen\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1479,
+                 "y":46.375
+                }, 
+                {
+                 "height":27,
+                 "id":28,
+                 "name":"gehacktes",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/gehacktes\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1318.875,
+                 "y":46.375
+                }, 
+                {
+                 "height":27,
+                 "id":29,
+                 "name":"xHain",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/cdn.c3voc.de\/thumbnail\/xhain\/thumb.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":50,
+                 "x":1158.875,
+                 "y":46.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1011,7 +1153,7 @@
          "y":0
         }],
  "nextlayerid":86,
- "nextobjectid":16,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
