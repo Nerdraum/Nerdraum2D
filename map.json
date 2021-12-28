@@ -314,7 +314,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/rc3.world\/2021\/fahrplan?mode=calendar&show_day_filters=y&kind=official&set=d1"
+                         "value":"https:\/\/rc3.world\/2021\/public_fahrplan"
                         }, 
                         {
                          "name":"openWebsitePolicy",
