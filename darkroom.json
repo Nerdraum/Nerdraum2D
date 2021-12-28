@@ -40,7 +40,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"ExitUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/_\/global\/www.nerdraum.de\/nerdraum2d\/Nerdraum2D\/sendezentrum.json"
                 }],
