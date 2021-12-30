@@ -971,7 +971,7 @@
                         }],
                  "rotation":0,
                  "type":"website",
-                 "visible":true,
+                 "visible":false,
                  "width":77.7777777777778,
                  "x":1305.11111111111,
                  "y":417.44
