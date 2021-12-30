@@ -278,6 +278,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"nr11",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -596,6 +602,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"Special_Zones",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -619,6 +631,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"floornwall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -673,6 +691,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -711,6 +735,12 @@
          "imagewidth":301,
          "margin":0,
          "name":"Schilder",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":225,
          "tileheight":32,
