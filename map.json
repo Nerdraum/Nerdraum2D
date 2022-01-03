@@ -531,15 +531,15 @@
                  "y":271
                 }, 
                 {
-                 "height":64,
+                 "height":153.5,
                  "id":31,
                  "name":"pornographiquePopup",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":128,
-                 "x":1185,
-                 "y":271
+                 "width":263.5,
+                 "x":1195,
+                 "y":235
                 }, 
                 {
                  "height":64,
