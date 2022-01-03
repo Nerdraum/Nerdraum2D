@@ -21,6 +21,12 @@ WA.room.onEnterZone('printerBallet', () => {
 })
 WA.room.onLeaveZone('printerBallet', closePopUp)
 
+// pornographique
+WA.room.onEnterZone('pornographique', () => {
+    currentPopup =  WA.ui.openPopup("pornographiquePopup","Dieser Bereich wird aus pornografischen Gründen kameraüberwacht!",[]);
+})
+WA.room.onLeaveZone('pornographique', closePopUp)
+
 // mancas3d
 WA.room.onEnterZone('mancas3d', () => {
     currentPopup =  WA.ui.openPopup("mancas3d","",[]);
